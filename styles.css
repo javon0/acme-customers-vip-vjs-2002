@@ -1,0 +1,17 @@
+ul > li {
+    background-color: beige;
+    border: solid 1px black;
+    padding: 1rem;
+    margin: 1rem;
+  }
+  .colorbox {
+    display: flex;
+    border: solid 1px black;
+    width: 15%;
+    background-color: white;
+  }
+  .box {
+    background-color: green;
+    height: 50px;
+    width: 50px;
+  }
